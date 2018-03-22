@@ -12,7 +12,7 @@ import android.widget.TextView;
 /**
  * 作者：Ghost
  * 时间：2018/3/18
- * 功能：
+ * 功能：内容显示区域 Fragment
  */
 
 public class VpFragment extends Fragment {
